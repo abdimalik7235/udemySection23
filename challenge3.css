@@ -1,0 +1,23 @@
+.container{
+    width: 50%;
+    height: auto;
+    border: 2px solid green;
+    margin-left: 20%;
+    position: relative;
+
+}
+ul li{
+    text-align: left;
+}
+
+.add{
+    width: 100%;
+    position: absolute;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+.head1{
+    text-align: center;
+    background-color: gainsboro;
+}

@@ -1,0 +1,12 @@
+.head1{
+    text-align: center;
+    background-color: gainsboro;
+}
+.add{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+a{
+    color: gray;
+}
